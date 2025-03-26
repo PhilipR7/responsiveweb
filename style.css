@@ -28,7 +28,7 @@
 .margen{
     margin-top: 40px;
     margin-right: 30px;
-    margin-left: 30px;
+    margin-left: 90px;
     margin-bottom: 40px;
     justify-content: center;
 }
@@ -48,4 +48,22 @@ img {
     background-color: black;
     color: white;
     text-align: center;
+}
+
+.letra{
+    font-size: 90%;
+}
+
+.blanco{
+    color: white;
+}
+
+.fondo {
+    background-color: #808080;
+}
+
+.margen2{
+    margin-top: 40px;
+    margin-right: 30px;
+    margin-bottom: 40px;
 }
