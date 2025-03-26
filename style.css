@@ -1,12 +1,7 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
+
 
 .header {
     background-image: url(./img/header.jpg);
-    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -57,7 +52,7 @@ img {
 }
 
 .fondo {
-    background-color: #808080;
+    background-color: #6e6d6d;
 }
 
 .margen2{
